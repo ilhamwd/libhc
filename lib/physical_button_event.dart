@@ -1,0 +1,1 @@
+enum PhysicalButtonEvent { pressed, released }
